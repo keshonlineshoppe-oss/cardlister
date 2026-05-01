@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/app",
+      "destination": "https://app.cardlister.ph",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     { "source": "/(.*)", "destination": "/" }
   ]

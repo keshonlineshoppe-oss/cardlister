@@ -201,7 +201,7 @@ export default function Features() {
               </motion.ul>
               <motion.a
                 variants={fadeUp}
-                href="/checkout?plan=pro"
+                href="https://app.cardlister.ph/checkout?plan=pro"
                 className="inline-flex items-center gap-2 px-6 py-3 text-sm font-semibold rounded-lg bg-gradient-to-r from-gold to-[#B8943F] text-black transition-all hover:shadow-[0_0_20px_rgba(201,168,76,0.4)] hover:scale-[1.02]"
               >
                 Get Pro Access <ArrowRight size={16} />

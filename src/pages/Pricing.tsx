@@ -17,7 +17,7 @@ const plans = [
     price: '₱0',
     period: 'forever',
     desc: 'Para masubukan mo muna',
-    cta: 'https://app.cardlister.ph',
+    cta: 'https://app.cardlister.ph/signup',
     ctaLabel: 'Get Started',
     highlight: false,
     features: [

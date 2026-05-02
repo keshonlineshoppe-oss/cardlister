@@ -17,7 +17,7 @@ const plans = [
     price: '₱0',
     period: 'forever',
     desc: 'Para masubukan mo muna',
-    cta: '/app',
+    cta: 'https://app.cardlister.ph/signup',
     ctaLabel: 'Get Started',
     highlight: false,
     features: [
@@ -35,7 +35,7 @@ const plans = [
     price: '₱199',
     period: '/month',
     desc: 'Mas mura pa sa milk tea',
-    cta: '/checkout?plan=basic',
+    cta: 'https://app.cardlister.ph/login?redirect=%2Fcheckout%3Fplan%3Dbasic',
     ctaLabel: 'Start Basic',
     highlight: true,
     features: [
@@ -53,7 +53,7 @@ const plans = [
     price: '₱499',
     period: '/month',
     desc: 'Para sa serious sellers',
-    cta: '/checkout?plan=pro',
+    cta: 'https://app.cardlister.ph/login?redirect=%2Fcheckout%3Fplan%3Dpro',
     ctaLabel: 'Go Pro',
     highlight: false,
     features: [
